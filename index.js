@@ -1,5 +1,5 @@
-let fruits = [];
-console.log(fruits);
+let emptyArray = [];
+console.log(emptyArray);
 let hobbies = [
   "Volleyball",
   "Teniss",
